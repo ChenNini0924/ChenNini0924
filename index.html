@@ -9,7 +9,7 @@
         @keyframes loaded_txt {
             0% {
                 opacity: 0;
-                background :white;
+                background: white;
                 border-radius: 45px
             }
 
@@ -40,12 +40,15 @@
             0% {
                 background-color: #ffa9ba;
             }
+
             17% {
                 background-color: pink;
             }
+
             89% {
                 background-color: lightpink;
             }
+
             100% {
                 background-color: #ffa9ba;
             }
@@ -97,29 +100,30 @@
             color: pink;
         }
 
-        
+
 
         * {
             opacity: 0;
             font-family: 'UD Digi Kyokasho N-B';
             margin: 0px; /*外部*/
             padding: 0px; /*內部*/
-            color:white;
+            color: white;
         }
 
-        a{
-            color:#ffffff;
+        a {
+            color: #ffffff;
         }
 
         .link {
             animation: link 1s infinite;
         }
 
-        .link::before {
-            content: "§";
-        }
+            .link::before {
+                content: "§";
+            }
 
         body {
+            opacity: 1;
             background-color: lightpink;
             background-image: url("./img/img-2.png");
         }
@@ -149,6 +153,10 @@
         hr {
             border: 3px dashed white;
         }
+
+
+
+        /* SPOTIFY */
     </style>
 
     <div style="background-color: #ffa9ba; width: 100%; height: 90px; display: flex; justify-content: center; border-bottom: 3px solid #ffc3d2; ">
@@ -160,15 +168,21 @@
         </h1>
     </div>
 
+    <audio autoplay loop>
+        <source src="file:///C:/Users/chenn/Desktop/chennini0924.cc/bgm/backgroundmusic.mp3" type="audio/mp3">
+    </audio>
+
+
     <div style=" width: 100%; height: auto; display: flex; justify-content: center; ">
         <div style="display: flex; justify-content: center; width:1000px ">
             <div class="d" style=" width: 300px; height: auto; display: block; align-items: center; justify-content: center; border-radius: 45px; padding: 45px; margin: 45px ">
                 <div>
-                    <img class ="?" src="./img/img-1.JPG" style="width: 300px; border-radius: 100%; border: 3px solid #ffdbeb" />
+                    <img class="?" src="./img/img-1.JPG" style="width: 300px; border-radius: 100%; border: 3px solid #ffdbeb" />
 
                     <h1 style="font-size:40px">
                         陳奈奈 (Chennini0924)
                     </h1>
+
                     <hr />
                     <h3>
                         社交媒體連結：
@@ -184,6 +198,8 @@
                             Discord群族
                         </h5>
                     </a>
+
+
                 </div>
 
             </div>
@@ -277,6 +293,25 @@
     <div style=" width: 100%; height: auto; display: flex; align-items: center; justify-content: center; ">
         <div class="d" style="width: 850px; height: auto; border-radius: 45px; padding: 45px; margin: 45px ">
             <h1 style="font-size:80px">
+                🎵 目前撥放的音樂。
+            </h1>
+            <iframe id="attention" style="border-radius:12px" src="https://open.spotify.com/embed/track/5cF0dROlMOK5uNZtivgu50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+            <h1 style="font-size:80px">
+                🎧 其他的歌單。
+            </h1>
+            <div style="display: flex; align-items: center; justify-content: center; ">
+                <iframe style="border-radius: 12px; margin: 15px " src="https://open.spotify.com/embed/playlist/7kpZciw3WxKarfkmp5lL9l?utm_source=generator" width="48%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                <iframe style="border-radius: 12px; margin: 15px " src="https://open.spotify.com/embed/playlist/7rNk3HgRsW9n6bGDcxGNd8?utm_source=generator" width="48%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div style=" width: 100%; height: auto; display: flex; align-items: center; justify-content: center; ">
+        <div class="d" style="width: 850px; height: auto; border-radius: 45px; padding: 45px; margin: 45px ">
+            <h1 style="font-size:80px">
                 Nothing here yet.🥲
             </h1>
 
@@ -289,9 +324,10 @@
         window.onload = function () {
 
             for (var i = 0; i < document.querySelectorAll("*").length; i++) {
-                if (getComputedStyle(document.querySelectorAll("*")[i]).animation[0] == 'n') {
+                 
+                if (getComputedStyle(document.querySelectorAll("*")[i]).animation[0] == 'n' && document.querySelectorAll("*")[i].tagName != 'BODY') {
                     if (document.querySelectorAll("*")[i].className == "?") {
-               
+
                         document.querySelectorAll("*")[i].style.animation = "loaded 2.4s";
                     } else {
                         if (document.querySelectorAll("*")[i].className == "txt") {
@@ -299,16 +335,24 @@
                         } else {
                             document.querySelectorAll("*")[i].style.animation = "loaded .6s";
                         }
-                       
-                    }
-                    
-                } else {
-                }
 
+                    }
+
+                } else {
+                    console.log(getComputedStyle(document.querySelectorAll("*")[i]).opacity)
+                }
+                
                 document.querySelectorAll("*")[i].style.opacity = "1";
+
+
+
             }
+            document.getElementById("loadscn").remove()
+
+
 
         };
+
     </script>
 </body>
 </html>
