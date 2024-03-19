@@ -17,4 +17,9 @@
 |喜歡去哪裡玩？|墾丁|
 
 ## 與我聯繫：
-* Discord： [個人檔案](https://discordapp.com/users/1215881890309869661)
+###### Discord： [個人檔案](https://discordapp.com/users/1215881890309869661)
+
+
+<div class="footer">
+        &copy; 2024 陳奈奈  |  Chennini0924
+</div>
