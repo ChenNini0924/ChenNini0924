@@ -18,4 +18,3 @@
 
 ## 與我聯繫：
 * Discord： [個人檔案](https://discordapp.com/users/1215881890309869661)
-* E-mail：  [傳送訊息](https://tomail:chennini0924@gmail.com/) _不常使用，請盡量使用上方 Discord 聯繫本人！！！_
