@@ -3,7 +3,7 @@
 ###### 用Github Page做的小網站：[Website](https://chennini0924.github.io/ChenNini0924/) 
 
 ## 自我介紹：
-哈摟！我是來自台灣的中學生，目前除了讀書外就是畫畫或寫程式了，最最最想完成的作品是 **Mione** 這個程式語言（詳細內容歡迎參考[這裡](https://github.com/ChenNini0924/Mione))
+哈摟！我是來自台灣的中學生，目前除了讀書外就是畫畫或寫程式了，最最最想完成的作品是 **Mione** 這個程式語言（詳細內容歡迎參考[這裡](https://github.com/Mioprety/Mione))
 
 
 #### 網上許多人問我的問題：
