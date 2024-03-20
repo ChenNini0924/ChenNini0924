@@ -1,8 +1,14 @@
 # 我的小個人檔案 🫠
-
+### 我的自我介紹：
 ###### 用Github Page做的小網站：[Website](https://chennini0924.github.io/ChenNini0924/) 
 
-## 自我介紹：
+### 我的開源項目：
+###### Mioprety工作室連結：[我](https://github.com/Mioprety)
+        set OPEN_SOURCE = { //OWNER:PROJECT
+              Mioprety = "Mione"
+        }
+
+## 簡易的自我介紹：
 哈摟！我是來自台灣的中學生，目前除了讀書外就是畫畫或寫程式了，最最最想完成的作品是 **Mione** 這個程式語言（詳細內容歡迎參考[這裡](https://github.com/Mioprety/Mione))
 
 
