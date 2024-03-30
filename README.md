@@ -1,5 +1,6 @@
 # 我的小個人檔案 🫠 
-[![](img/discord.svg)](https://discord.com/users/1215881890309869661) [![](img/facebook.svg)](https://www.facebook.com/profile.php?id=61557425692395) [![](img/instagram.svg)](https://www.instagram.com/chennini0924) [![](img/twitter-x.svg)](https://twitter.com/chennini0924) [![](img/youtube.svg)](https://www.youtube.com/channel/UCHGy_JTwDIoar-8Wf3olOrw)
+## 與我聯繫： [![](img/discord.svg)](https://discord.com/users/1215881890309869661) [![](img/facebook.svg)](https://www.facebook.com/profile.php?id=61557425692395) [![](img/instagram.svg)](https://www.instagram.com/chennini0924) [![](img/twitter-x.svg)](https://twitter.com/chennini0924) [![](img/youtube.svg)](https://www.youtube.com/channel/UCHGy_JTwDIoar-8Wf3olOrw)
+
 
 ## 🪶MIONE語言超連結：[我](https://github.com/Mioprety/Mione)
 
@@ -26,8 +27,6 @@
 |**你喜歡喝甚麼飲料？**|錫蘭紅茶|
 |**喜歡去哪裡玩？**|墾丁|
 
-## 與我聯繫：
-###### Discord： [個人檔案](https://discordapp.com/users/1215881890309869661)
 
 
 <div class="footer">
