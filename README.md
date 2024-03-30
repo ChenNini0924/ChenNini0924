@@ -3,7 +3,7 @@
 ## 🪶MIONE語言超連結：[我](https://github.com/Mioprety/Mione)
 
 
-### 與我聯繫： [![](img/discord.svg)](https://discord.com/users/1215881890309869661) [![](img/facebook.svg)](https://www.facebook.com/profile.php?id=61557425692395) [![](img/instagram.svg)](https://www.instagram.com/chennini0924) [![](img/twitter-x.svg)](https://twitter.com/chennini0924) [![](img/youtube.svg)](https://www.youtube.com/channel/UCHGy_JTwDIoar-8Wf3olOrw)
+### 社交媒體： [![](img/discord.svg)](https://discord.com/users/1215881890309869661) [![](img/facebook.svg)](https://www.facebook.com/profile.php?id=61557425692395) [![](img/instagram.svg)](https://www.instagram.com/chennini0924) [![](img/twitter-x.svg)](https://twitter.com/chennini0924) [![](img/youtube.svg)](https://www.youtube.com/channel/UCHGy_JTwDIoar-8Wf3olOrw)
 
 
 
