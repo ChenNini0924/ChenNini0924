@@ -1,4 +1,7 @@
 # 我的小個人檔案 🫠
+
+## 🪶MIONE語言超連結：[我](https://github.com/Mioprety/Mione)
+
 ### 我的自我介紹：
 ###### 用Github Page做的小網站：[Website](https://chennini0924.github.io/ChenNini0924/) 
 
