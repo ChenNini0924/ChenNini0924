@@ -2,7 +2,7 @@
 
 ## 🪶MIONE語言超連結：[我](https://github.com/Mioprety/Mione)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31u4v55xx3ulgbf3xxp3k5ih7zoi&cover_image=true&theme=compact&show_offline=true&background_color=850039&interchange=false)](https://open.spotify.com/user/31u4v55xx3ulgbf3xxp3k5ih7zoi?si=2212d3c9f2d0486b)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31h2xxfabq4mt3te7n2wlk3wkca4&cover_image=true&theme=compact&show_offline=true&background_color=850039&interchange=false)](https://open.spotify.com/user/31u4v55xx3ulgbf3xxp3k5ih7zoi?si=2212d3c9f2d0486b)
 
 ### 社交媒體： [![](img/discord.svg)](https://discord.com/users/1215881890309869661) [![](img/facebook.svg)](https://www.facebook.com/profile.php?id=61557425692395) [![](img/instagram.svg)](https://www.instagram.com/chennini0924) [![](img/twitter-x.svg)](https://twitter.com/chennini0924) [![](img/youtube.svg)](https://www.youtube.com/channel/UCHGy_JTwDIoar-8Wf3olOrw)
 
