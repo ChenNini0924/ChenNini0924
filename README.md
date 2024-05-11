@@ -14,7 +14,7 @@
 
 ### 我的開源項目：
 ###### Mioprety工作室連結：[我](https://github.com/Mioprety)
-        set OPEN_SOURCE = { //OWNER:PROJECT
+        set OPEN_SOURCE = { //OWNER:PROJECT//
               Mioprety = "Mione"
         }
 
